@@ -1,0 +1,2 @@
+# TerceS
+Project CPE341
